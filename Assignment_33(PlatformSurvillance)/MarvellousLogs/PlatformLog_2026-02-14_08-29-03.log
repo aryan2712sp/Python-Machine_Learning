@@ -1,0 +1,2590 @@
+
+Timestamp : 2026-02-14 08:29:03.158102
+Process Name : System Idle Process
+PID : 0
+CPU % : 0.0
+Memory RSS : 8192
+Threads : 24
+Open Files : 0
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.166652
+Process Name : System
+PID : 4
+CPU % : 0.0
+Memory RSS : 12288
+Threads : 293
+Open Files : 0
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.177291
+Process Name : 
+PID : 140
+CPU % : 0.0
+Memory RSS : 33304576
+Threads : 0
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.187875
+Process Name : Registry
+PID : 184
+CPU % : 0.0
+Memory RSS : 22401024
+Threads : 4
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.197722
+Process Name : smss.exe
+PID : 692
+CPU % : 0.0
+Memory RSS : 0
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.207978
+Process Name : csrss.exe
+PID : 1020
+CPU % : 0.0
+Memory RSS : 1785856
+Threads : 13
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.218302
+Process Name : wininit.exe
+PID : 1036
+CPU % : 0.0
+Memory RSS : 20480
+Threads : 1
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.227264
+Process Name : csrss.exe
+PID : 1044
+CPU % : 0.0
+Memory RSS : 3207168
+Threads : 15
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.237136
+Process Name : svchost.exe
+PID : 1112
+CPU % : 0.0
+Memory RSS : 1908736
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.246128
+Process Name : winlogon.exe
+PID : 1136
+CPU % : 0.0
+Memory RSS : 192512
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.257972
+Process Name : services.exe
+PID : 1172
+CPU % : 0.0
+Memory RSS : 6090752
+Threads : 6
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.267812
+Process Name : LsaIso.exe
+PID : 1200
+CPU % : 0.0
+Memory RSS : 307200
+Threads : 1
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.276826
+Process Name : lsass.exe
+PID : 1208
+CPU % : 0.0
+Memory RSS : 11980800
+Threads : 11
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.361594
+Process Name : msedgewebview2.exe
+PID : 1304
+CPU % : 0.0
+Memory RSS : 1044480
+Threads : 7
+Open Files : 1
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.369982
+Process Name : svchost.exe
+PID : 1348
+CPU % : 0.0
+Memory RSS : 22097920
+Threads : 13
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.377940
+Process Name : fontdrvhost.exe
+PID : 1360
+CPU % : 0.0
+Memory RSS : 3391488
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.385675
+Process Name : fontdrvhost.exe
+PID : 1368
+CPU % : 0.0
+Memory RSS : 8192
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.393819
+Process Name : WUDFHost.exe
+PID : 1428
+CPU % : 0.0
+Memory RSS : 12288
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.497269
+Process Name : WindowsPackageManagerServer.exe
+PID : 1492
+CPU % : 0.0
+Memory RSS : 7708672
+Threads : 7
+Open Files : 10
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.515393
+Process Name : svchost.exe
+PID : 1516
+CPU % : 0.0
+Memory RSS : 13459456
+Threads : 9
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.550615
+Process Name : svchost.exe
+PID : 1560
+CPU % : 0.0
+Memory RSS : 3289088
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.656924
+Process Name : WUDFHost.exe
+PID : 1612
+CPU % : 0.0
+Memory RSS : 122880
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:03.904336
+Process Name : chrome.exe
+PID : 1672
+CPU % : 0.0
+Memory RSS : 40562688
+Threads : 14
+Open Files : 9
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.000937
+Process Name : msedgewebview2.exe
+PID : 1712
+CPU % : 0.0
+Memory RSS : 970752
+Threads : 7
+Open Files : 1
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.016599
+Process Name : dwm.exe
+PID : 1720
+CPU % : 0.0
+Memory RSS : 63139840
+Threads : 21
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.029769
+Process Name : svchost.exe
+PID : 1728
+CPU % : 0.0
+Memory RSS : 901120
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.045237
+Process Name : svchost.exe
+PID : 1748
+CPU % : 0.0
+Memory RSS : 6737920
+Threads : 8
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.164658
+Process Name : msedgewebview2.exe
+PID : 1792
+CPU % : 0.0
+Memory RSS : 5148672
+Threads : 19
+Open Files : 20
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.246579
+Process Name : svchost.exe
+PID : 1832
+CPU % : 0.0
+Memory RSS : 774144
+Threads : 3
+Open Files : 1
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.261458
+Process Name : svchost.exe
+PID : 1876
+CPU % : 0.0
+Memory RSS : 5795840
+Threads : 11
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.274788
+Process Name : svchost.exe
+PID : 1936
+CPU % : 0.0
+Memory RSS : 1048576
+Threads : 11
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.288298
+Process Name : svchost.exe
+PID : 1940
+CPU % : 0.0
+Memory RSS : 2338816
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.301272
+Process Name : svchost.exe
+PID : 1948
+CPU % : 0.0
+Memory RSS : 1744896
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.315852
+Process Name : svchost.exe
+PID : 1968
+CPU % : 0.0
+Memory RSS : 1507328
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.329203
+Process Name : svchost.exe
+PID : 1972
+CPU % : 0.0
+Memory RSS : 2867200
+Threads : 9
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.342307
+Process Name : svchost.exe
+PID : 1992
+CPU % : 0.0
+Memory RSS : 757760
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.357030
+Process Name : svchost.exe
+PID : 2044
+CPU % : 0.0
+Memory RSS : 3170304
+Threads : 8
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.371074
+Process Name : svchost.exe
+PID : 2080
+CPU % : 0.0
+Memory RSS : 10448896
+Threads : 18
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.385766
+Process Name : svchost.exe
+PID : 2100
+CPU % : 0.0
+Memory RSS : 798720
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.397899
+Process Name : PresentationFontCache.exe
+PID : 2112
+CPU % : 0.0
+Memory RSS : 1581056
+Threads : 4
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.409519
+Process Name : svchost.exe
+PID : 2136
+CPU % : 0.0
+Memory RSS : 4206592
+Threads : 6
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.420428
+Process Name : svchost.exe
+PID : 2164
+CPU % : 0.0
+Memory RSS : 3190784
+Threads : 4
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.432667
+Process Name : svchost.exe
+PID : 2172
+CPU % : 0.0
+Memory RSS : 2973696
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.634441
+Process Name : Code.exe
+PID : 2192
+CPU % : 0.0
+Memory RSS : 141185024
+Threads : 51
+Open Files : 58
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.650425
+Process Name : svchost.exe
+PID : 2232
+CPU % : 0.0
+Memory RSS : 929792
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.753059
+Process Name : msedge.exe
+PID : 2308
+CPU % : 0.0
+Memory RSS : 5566464
+Threads : 22
+Open Files : 19
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.765164
+Process Name : IntelCpHeciSvc.exe
+PID : 2356
+CPU % : 0.0
+Memory RSS : 65536
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.775862
+Process Name : svchost.exe
+PID : 2464
+CPU % : 0.0
+Memory RSS : 512000
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.787015
+Process Name : svchost.exe
+PID : 2556
+CPU % : 0.0
+Memory RSS : 3493888
+Threads : 9
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.900708
+Process Name : svchost.exe
+PID : 2624
+CPU % : 0.0
+Memory RSS : 15785984
+Threads : 5
+Open Files : 8
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.913058
+Process Name : svchost.exe
+PID : 2648
+CPU % : 0.0
+Memory RSS : 6397952
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.924079
+Process Name : WUDFHost.exe
+PID : 2680
+CPU % : 0.0
+Memory RSS : 4591616
+Threads : 15
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:04.936021
+Process Name : igfxCUIService.exe
+PID : 2828
+CPU % : 0.0
+Memory RSS : 147456
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.015839
+Process Name : RuntimeBroker.exe
+PID : 2900
+CPU % : 0.0
+Memory RSS : 1777664
+Threads : 4
+Open Files : 2
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.025504
+Process Name : svchost.exe
+PID : 2916
+CPU % : 0.0
+Memory RSS : 1167360
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.036824
+Process Name : NVDisplay.Container.exe
+PID : 2952
+CPU % : 0.0
+Memory RSS : 11038720
+Threads : 37
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.047782
+Process Name : NgcIso.exe
+PID : 2988
+CPU % : 0.0
+Memory RSS : 1843200
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.057697
+Process Name : svchost.exe
+PID : 3000
+CPU % : 0.0
+Memory RSS : 2506752
+Threads : 7
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.157103
+Process Name : chrome.exe
+PID : 3044
+CPU % : 0.0
+Memory RSS : 39276544
+Threads : 22
+Open Files : 21
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.332051
+Process Name : WavesSvc64.exe
+PID : 3100
+CPU % : 0.0
+Memory RSS : 12898304
+Threads : 8
+Open Files : 3
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.342980
+Process Name : svchost.exe
+PID : 3132
+CPU % : 0.0
+Memory RSS : 5971968
+Threads : 8
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.353145
+Process Name : svchost.exe
+PID : 3152
+CPU % : 0.0
+Memory RSS : 10002432
+Threads : 8
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.363872
+Process Name : svchost.exe
+PID : 3180
+CPU % : 0.0
+Memory RSS : 430080
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.373619
+Process Name : svchost.exe
+PID : 3232
+CPU % : 0.0
+Memory RSS : 5222400
+Threads : 4
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.384616
+Process Name : svchost.exe
+PID : 3240
+CPU % : 0.0
+Memory RSS : 1245184
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.393844
+Process Name : MemCompression
+PID : 3300
+CPU % : 0.0
+Memory RSS : 384036864
+Threads : 18
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.405996
+Process Name : svchost.exe
+PID : 3364
+CPU % : 0.0
+Memory RSS : 1974272
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.415989
+Process Name : svchost.exe
+PID : 3372
+CPU % : 0.0
+Memory RSS : 2961408
+Threads : 8
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.425080
+Process Name : svchost.exe
+PID : 3432
+CPU % : 0.0
+Memory RSS : 6606848
+Threads : 9
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.510618
+Process Name : svchost.exe
+PID : 3472
+CPU % : 0.0
+Memory RSS : 7163904
+Threads : 5
+Open Files : 6
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.519685
+Process Name : svchost.exe
+PID : 3516
+CPU % : 0.0
+Memory RSS : 10743808
+Threads : 15
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.527980
+Process Name : svchost.exe
+PID : 3524
+CPU % : 0.0
+Memory RSS : 9650176
+Threads : 8
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.738332
+Process Name : msedgewebview2.exe
+PID : 3536
+CPU % : 0.0
+Memory RSS : 10846208
+Threads : 54
+Open Files : 83
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.750282
+Process Name : SearchFilterHost.exe
+PID : 3556
+CPU % : 0.0
+Memory RSS : 12111872
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.760569
+Process Name : svchost.exe
+PID : 3628
+CPU % : 0.0
+Memory RSS : 1519616
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.772178
+Process Name : svchost.exe
+PID : 3768
+CPU % : 0.0
+Memory RSS : 2154496
+Threads : 4
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.783372
+Process Name : svchost.exe
+PID : 3784
+CPU % : 0.0
+Memory RSS : 25153536
+Threads : 11
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.876472
+Process Name : backgroundTaskHost.exe
+PID : 3804
+CPU % : 0.0
+Memory RSS : 49152
+Threads : 14
+Open Files : 3
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.885522
+Process Name : svchost.exe
+PID : 3828
+CPU % : 0.0
+Memory RSS : 5640192
+Threads : 15
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.893259
+Process Name : svchost.exe
+PID : 3904
+CPU % : 0.0
+Memory RSS : 11108352
+Threads : 12
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.902848
+Process Name : svchost.exe
+PID : 3916
+CPU % : 0.0
+Memory RSS : 2285568
+Threads : 7
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.980556
+Process Name : svchost.exe
+PID : 3968
+CPU % : 0.0
+Memory RSS : 3670016
+Threads : 9
+Open Files : 6
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:05.988542
+Process Name : svchost.exe
+PID : 4028
+CPU % : 0.0
+Memory RSS : 1556480
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.059406
+Process Name : chrome.exe
+PID : 4084
+CPU % : 0.0
+Memory RSS : 6246400
+Threads : 10
+Open Files : 6
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.070431
+Process Name : spoolsv.exe
+PID : 4144
+CPU % : 0.0
+Memory RSS : 4497408
+Threads : 7
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.080923
+Process Name : WavesSysSvc64.exe
+PID : 4152
+CPU % : 0.0
+Memory RSS : 5951488
+Threads : 7
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.207633
+Process Name : chrome.exe
+PID : 4228
+CPU % : 0.0
+Memory RSS : 118071296
+Threads : 21
+Open Files : 7
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.217293
+Process Name : svchost.exe
+PID : 4376
+CPU % : 0.0
+Memory RSS : 2859008
+Threads : 7
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.225357
+Process Name : svchost.exe
+PID : 4400
+CPU % : 0.0
+Memory RSS : 16519168
+Threads : 24
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.233892
+Process Name : HidMonitorSvc.exe
+PID : 4440
+CPU % : 0.0
+Memory RSS : 24576
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.235920
+Process Name : AnyDesk.exe
+PID : 4448
+CPU % : 0.0
+Memory RSS : 8929280
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.244201
+Process Name : DellFFDPWmiService.exe
+PID : 4476
+CPU % : 0.0
+Memory RSS : 1224704
+Threads : 6
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.253623
+Process Name : svchost.exe
+PID : 4508
+CPU % : 0.0
+Memory RSS : 1064960
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.262840
+Process Name : svchost.exe
+PID : 4544
+CPU % : 0.0
+Memory RSS : 14184448
+Threads : 18
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.341397
+Process Name : taskhostw.exe
+PID : 4572
+CPU % : 0.0
+Memory RSS : 9515008
+Threads : 9
+Open Files : 8
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.352296
+Process Name : svchost.exe
+PID : 4576
+CPU % : 0.0
+Memory RSS : 23949312
+Threads : 13
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.362187
+Process Name : svchost.exe
+PID : 4608
+CPU % : 0.0
+Memory RSS : 741376
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.374403
+Process Name : OneApp.IGCC.WinService.exe
+PID : 4636
+CPU % : 0.0
+Memory RSS : 7553024
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.385095
+Process Name : esif_uf.exe
+PID : 4644
+CPU % : 0.0
+Memory RSS : 159744
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.394559
+Process Name : IntelAudioService.exe
+PID : 4700
+CPU % : 0.0
+Memory RSS : 3887104
+Threads : 8
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.404844
+Process Name : MpDefenderCoreService.exe
+PID : 4792
+CPU % : 0.0
+Memory RSS : 10891264
+Threads : 9
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.414001
+Process Name : LMS.exe
+PID : 4812
+CPU % : 0.0
+Memory RSS : 5140480
+Threads : 11
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.488016
+Process Name : conhost.exe
+PID : 4840
+CPU % : 0.0
+Memory RSS : 1503232
+Threads : 3
+Open Files : 4
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.497467
+Process Name : jhi_service.exe
+PID : 4884
+CPU % : 0.0
+Memory RSS : 49152
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.506207
+Process Name : AgentService.exe
+PID : 4960
+CPU % : 0.0
+Memory RSS : 798720
+Threads : 11
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.515247
+Process Name : SchedulerService.exe
+PID : 4968
+CPU % : 0.0
+Memory RSS : 651264
+Threads : 6
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.523691
+Process Name : svchost.exe
+PID : 4976
+CPU % : 0.0
+Memory RSS : 3661824
+Threads : 7
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.533053
+Process Name : svchost.exe
+PID : 4992
+CPU % : 0.0
+Memory RSS : 663552
+Threads : 1
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.541677
+Process Name : mongod.exe
+PID : 5008
+CPU % : 0.0
+Memory RSS : 25845760
+Threads : 50
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.553162
+Process Name : RstMwService.exe
+PID : 5036
+CPU % : 0.0
+Memory RSS : 90112
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.564785
+Process Name : RtkAudUService64.exe
+PID : 5048
+CPU % : 0.0
+Memory RSS : 2727936
+Threads : 14
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.577363
+Process Name : svchost.exe
+PID : 5056
+CPU % : 0.0
+Memory RSS : 892928
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.590152
+Process Name : ThunderboltService.exe
+PID : 5092
+CPU % : 0.0
+Memory RSS : 1593344
+Threads : 7
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.601052
+Process Name : TbtP2pShortcutService.exe
+PID : 5108
+CPU % : 0.0
+Memory RSS : 352256
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.613003
+Process Name : svchost.exe
+PID : 5144
+CPU % : 0.0
+Memory RSS : 2543616
+Threads : 9
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.624971
+Process Name : MsMpEng.exe
+PID : 5204
+CPU % : 0.0
+Memory RSS : 239902720
+Threads : 43
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.636312
+Process Name : svchost.exe
+PID : 5240
+CPU % : 0.0
+Memory RSS : 11395072
+Threads : 11
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.646545
+Process Name : WMIRegistrationService.exe
+PID : 5252
+CPU % : 0.0
+Memory RSS : 294912
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.729889
+Process Name : AppActions.exe
+PID : 5356
+CPU % : 0.0
+Memory RSS : 7557120
+Threads : 7
+Open Files : 2
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.738646
+Process Name : svchost.exe
+PID : 5384
+CPU % : 0.0
+Memory RSS : 4124672
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.746874
+Process Name : svchost.exe
+PID : 5400
+CPU % : 0.0
+Memory RSS : 13684736
+Threads : 6
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.755168
+Process Name : wslservice.exe
+PID : 5404
+CPU % : 0.0
+Memory RSS : 6053888
+Threads : 9
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.763156
+Process Name : svchost.exe
+PID : 5412
+CPU % : 0.0
+Memory RSS : 3317760
+Threads : 8
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.772331
+Process Name : svchost.exe
+PID : 5692
+CPU % : 0.0
+Memory RSS : 3186688
+Threads : 9
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.846398
+Process Name : RtkAudUService64.exe
+PID : 5876
+CPU % : 0.0
+Memory RSS : 3063808
+Threads : 8
+Open Files : 1
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.941011
+Process Name : AdobeCollabSync.exe
+PID : 5916
+CPU % : 0.0
+Memory RSS : 3383296
+Threads : 13
+Open Files : 3
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.949591
+Process Name : dasHost.exe
+PID : 6208
+CPU % : 0.0
+Memory RSS : 77824
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.958156
+Process Name : svchost.exe
+PID : 6296
+CPU % : 0.0
+Memory RSS : 520192
+Threads : 1
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:06.966557
+Process Name : svchost.exe
+PID : 6400
+CPU % : 0.0
+Memory RSS : 1855488
+Threads : 12
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.085977
+Process Name : chrome.exe
+PID : 6516
+CPU % : 0.0
+Memory RSS : 404369408
+Threads : 22
+Open Files : 56
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.094557
+Process Name : svchost.exe
+PID : 6580
+CPU % : 0.0
+Memory RSS : 44056576
+Threads : 40
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.102865
+Process Name : NVDisplay.Container.exe
+PID : 6588
+CPU % : 0.0
+Memory RSS : 13426688
+Threads : 29
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.202448
+Process Name : msedgewebview2.exe
+PID : 6936
+CPU % : 0.0
+Memory RSS : 1118208
+Threads : 22
+Open Files : 37
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.260050
+Process Name : svchost.exe
+PID : 6968
+CPU % : 0.0
+Memory RSS : 913408
+Threads : 3
+Open Files : 2
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.332249
+Process Name : msedgewebview2.exe
+PID : 7036
+CPU % : 0.0
+Memory RSS : 2285568
+Threads : 8
+Open Files : 6
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.340936
+Process Name : WmiPrvSE.exe
+PID : 7208
+CPU % : 0.0
+Memory RSS : 1359872
+Threads : 4
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.350299
+Process Name : MidiSrv.exe
+PID : 7548
+CPU % : 0.0
+Memory RSS : 2437120
+Threads : 6
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.457400
+Process Name : Code.exe
+PID : 7640
+CPU % : 0.0
+Memory RSS : 288694272
+Threads : 20
+Open Files : 53
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.530273
+Process Name : RuntimeBroker.exe
+PID : 7764
+CPU % : 0.0
+Memory RSS : 4362240
+Threads : 4
+Open Files : 6
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.609303
+Process Name : Apoint.exe
+PID : 7864
+CPU % : 0.0
+Memory RSS : 2150400
+Threads : 5
+Open Files : 1
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.703463
+Process Name : msedgewebview2.exe
+PID : 8104
+CPU % : 0.0
+Memory RSS : 4485120
+Threads : 20
+Open Files : 5
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.712596
+Process Name : wlanext.exe
+PID : 8268
+CPU % : 0.0
+Memory RSS : 1675264
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.720725
+Process Name : svchost.exe
+PID : 8304
+CPU % : 0.0
+Memory RSS : 4390912
+Threads : 6
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.801211
+Process Name : CrossDeviceResume.exe
+PID : 8312
+CPU % : 0.0
+Memory RSS : 5058560
+Threads : 5
+Open Files : 8
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.809809
+Process Name : svchost.exe
+PID : 8328
+CPU % : 0.0
+Memory RSS : 5070848
+Threads : 11
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.811969
+Process Name : ApMsgFwd.exe
+PID : 8336
+CPU % : 0.0
+Memory RSS : 708608
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.820030
+Process Name : AggregatorHost.exe
+PID : 8476
+CPU % : 0.0
+Memory RSS : 3641344
+Threads : 4
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.882662
+Process Name : hidfind.exe
+PID : 8496
+CPU % : 0.0
+Memory RSS : 1667072
+Threads : 1
+Open Files : 0
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:07.941673
+Process Name : ApRemote.exe
+PID : 8504
+CPU % : 0.0
+Memory RSS : 20480
+Threads : 1
+Open Files : 0
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:08.027052
+Process Name : Code.exe
+PID : 8512
+CPU % : 0.0
+Memory RSS : 42131456
+Threads : 20
+Open Files : 16
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:08.036701
+Process Name : SecurityHealthService.exe
+PID : 8576
+CPU % : 0.0
+Memory RSS : 8257536
+Threads : 10
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:08.099941
+Process Name : ApntEx.exe
+PID : 8656
+CPU % : 0.0
+Memory RSS : 434176
+Threads : 2
+Open Files : 0
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:08.174180
+Process Name : FileCoAuth.exe
+PID : 8660
+CPU % : 0.0
+Memory RSS : 966656
+Threads : 3
+Open Files : 1
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:08.288734
+Process Name : sihost.exe
+PID : 8684
+CPU % : 0.0
+Memory RSS : 14876672
+Threads : 12
+Open Files : 2
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:08.298584
+Process Name : svchost.exe
+PID : 8752
+CPU % : 0.0
+Memory RSS : 11190272
+Threads : 7
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:08.307213
+Process Name : svchost.exe
+PID : 8856
+CPU % : 0.0
+Memory RSS : 864256
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:08.465831
+Process Name : SystemSettings.exe
+PID : 8900
+CPU % : 0.0
+Memory RSS : 45056
+Threads : 38
+Open Files : 24
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:08.476321
+Process Name : svchost.exe
+PID : 8924
+CPU % : 0.0
+Memory RSS : 11513856
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:08.577136
+Process Name : igfxEM.exe
+PID : 9244
+CPU % : 0.0
+Memory RSS : 532480
+Threads : 3
+Open Files : 2
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:08.587107
+Process Name : svchost.exe
+PID : 9328
+CPU % : 0.0
+Memory RSS : 1593344
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:08.589331
+Process Name : taskhostw.exe
+PID : 9496
+CPU % : 0.0
+Memory RSS : 724992
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:08.598385
+Process Name : svchost.exe
+PID : 9524
+CPU % : 0.0
+Memory RSS : 3403776
+Threads : 10
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:09.180443
+Process Name : explorer.exe
+PID : 9576
+CPU % : 0.0
+Memory RSS : 277278720
+Threads : 110
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:09.398060
+Process Name : chrome.exe
+PID : 9708
+CPU % : 0.0
+Memory RSS : 170799104
+Threads : 47
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:09.462736
+Process Name : MoNotificationUx.exe
+PID : 9740
+CPU % : 0.0
+Memory RSS : 1548288
+Threads : 1
+Open Files : 1
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:09.546669
+Process Name : WidgetService.exe
+PID : 9876
+CPU % : 0.0
+Memory RSS : 3031040
+Threads : 6
+Open Files : 10
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:09.626855
+Process Name : svchost.exe
+PID : 9948
+CPU % : 0.0
+Memory RSS : 14888960
+Threads : 10
+Open Files : 2
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:09.699463
+Process Name : msedgewebview2.exe
+PID : 10104
+CPU % : 0.0
+Memory RSS : 339968
+Threads : 10
+Open Files : 17
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:09.707889
+Process Name : svchost.exe
+PID : 10124
+CPU % : 0.0
+Memory RSS : 1462272
+Threads : 8
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:09.782656
+Process Name : ShellHost.exe
+PID : 10184
+CPU % : 0.0
+Memory RSS : 6598656
+Threads : 7
+Open Files : 6
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:09.849643
+Process Name : msedge.exe
+PID : 10324
+CPU % : 0.0
+Memory RSS : 8704000
+Threads : 14
+Open Files : 4
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:09.957048
+Process Name : powershell.exe
+PID : 10380
+CPU % : 0.0
+Memory RSS : 101142528
+Threads : 25
+Open Files : 7
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:10.063013
+Process Name : powershell.exe
+PID : 10576
+CPU % : 0.0
+Memory RSS : 95014912
+Threads : 12
+Open Files : 7
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:10.237236
+Process Name : SearchHost.exe
+PID : 10608
+CPU % : 0.0
+Memory RSS : 29319168
+Threads : 25
+Open Files : 32
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:10.374431
+Process Name : StartMenuExperienceHost.exe
+PID : 10616
+CPU % : 0.0
+Memory RSS : 36118528
+Threads : 17
+Open Files : 24
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:10.382743
+Process Name : RtkAudUService64.exe
+PID : 10672
+CPU % : 0.0
+Memory RSS : 3055616
+Threads : 7
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:10.446674
+Process Name : svchost.exe
+PID : 10876
+CPU % : 0.0
+Memory RSS : 2527232
+Threads : 2
+Open Files : 6
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:10.559964
+Process Name : Widgets.exe
+PID : 10944
+CPU % : 0.0
+Memory RSS : 11702272
+Threads : 14
+Open Files : 19
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:10.568189
+Process Name : armsvc.exe
+PID : 11160
+CPU % : 0.0
+Memory RSS : 233472
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:10.624974
+Process Name : SecurityHealthSystray.exe
+PID : 11284
+CPU % : 0.0
+Memory RSS : 651264
+Threads : 1
+Open Files : 1
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:10.689908
+Process Name : msedgewebview2.exe
+PID : 11452
+CPU % : 0.0
+Memory RSS : 602112
+Threads : 11
+Open Files : 18
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:10.785165
+Process Name : ShellExperienceHost.exe
+PID : 11496
+CPU % : 0.0
+Memory RSS : 32768
+Threads : 19
+Open Files : 8
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:10.961135
+Process Name : msedgewebview2.exe
+PID : 11516
+CPU % : 0.0
+Memory RSS : 13025280
+Threads : 50
+Open Files : 137
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.021195
+Process Name : msedgewebview2.exe
+PID : 11584
+CPU % : 0.0
+Memory RSS : 987136
+Threads : 7
+Open Files : 1
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.029504
+Process Name : svchost.exe
+PID : 11656
+CPU % : 0.0
+Memory RSS : 4833280
+Threads : 6
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.124471
+Process Name : OneDrive.Sync.Service.exe
+PID : 11784
+CPU % : 0.0
+Memory RSS : 5414912
+Threads : 17
+Open Files : 21
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.249556
+Process Name : OneDrive.exe
+PID : 11792
+CPU % : 0.0
+Memory RSS : 17870848
+Threads : 26
+Open Files : 37
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.252002
+Process Name : ctfmon.exe
+PID : 11852
+CPU % : 0.0
+Memory RSS : 11407360
+Threads : 12
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.343295
+Process Name : msedgewebview2.exe
+PID : 11968
+CPU % : 0.0
+Memory RSS : 614400
+Threads : 22
+Open Files : 35
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.431394
+Process Name : msedgewebview2.exe
+PID : 12228
+CPU % : 0.0
+Memory RSS : 2154496
+Threads : 20
+Open Files : 19
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.497625
+Process Name : Code.exe
+PID : 12412
+CPU % : 0.0
+Memory RSS : 68173824
+Threads : 8
+Open Files : 14
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.584961
+Process Name : msedgewebview2.exe
+PID : 12520
+CPU % : 0.0
+Memory RSS : 7417856
+Threads : 21
+Open Files : 22
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.660035
+Process Name : ApplicationFrameHost.exe
+PID : 12536
+CPU % : 0.0
+Memory RSS : 1921024
+Threads : 3
+Open Files : 9
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.732072
+Process Name : Code.exe
+PID : 12588
+CPU % : 0.0
+Memory RSS : 23531520
+Threads : 8
+Open Files : 2
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.740389
+Process Name : svchost.exe
+PID : 12748
+CPU % : 0.0
+Memory RSS : 13815808
+Threads : 9
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.748813
+Process Name : svchost.exe
+PID : 12964
+CPU % : 0.0
+Memory RSS : 2416640
+Threads : 4
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.838454
+Process Name : chrome.exe
+PID : 12984
+CPU % : 0.0
+Memory RSS : 80048128
+Threads : 26
+Open Files : 22
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.904074
+Process Name : svchost.exe
+PID : 13008
+CPU % : 0.0
+Memory RSS : 2973696
+Threads : 5
+Open Files : 2
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:11.975468
+Process Name : chrome.exe
+PID : 13248
+CPU % : 0.0
+Memory RSS : 3133440
+Threads : 9
+Open Files : 1
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:12.221197
+Process Name : msedge.exe
+PID : 13256
+CPU % : 0.0
+Memory RSS : 30625792
+Threads : 54
+Open Files : 92
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:12.314548
+Process Name : chrome.exe
+PID : 13392
+CPU % : 0.0
+Memory RSS : 303853568
+Threads : 26
+Open Files : 46
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:12.322607
+Process Name : unsecapp.exe
+PID : 13504
+CPU % : 0.0
+Memory RSS : 2732032
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:12.468270
+Process Name : GoogleDriveFS.exe
+PID : 13528
+CPU % : 0.0
+Memory RSS : 25149440
+Threads : 95
+Open Files : 47
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:12.477271
+Process Name : NisSrv.exe
+PID : 13636
+CPU % : 0.0
+Memory RSS : 2457600
+Threads : 4
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:12.486657
+Process Name : svchost.exe
+PID : 13736
+CPU % : 0.0
+Memory RSS : 3051520
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:12.495186
+Process Name : svchost.exe
+PID : 13756
+CPU % : 0.0
+Memory RSS : 6631424
+Threads : 6
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:12.573794
+Process Name : chrome.exe
+PID : 13848
+CPU % : 0.0
+Memory RSS : 27086848
+Threads : 10
+Open Files : 11
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:12.629522
+Process Name : conhost.exe
+PID : 13924
+CPU % : 0.0
+Memory RSS : 7704576
+Threads : 5
+Open Files : 1
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:12.811764
+Process Name : TextInputHost.exe
+PID : 14216
+CPU % : 0.0
+Memory RSS : 29589504
+Threads : 46
+Open Files : 35
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:12.820683
+Process Name : SearchProtocolHost.exe
+PID : 14228
+CPU % : 0.0
+Memory RSS : 17731584
+Threads : 9
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:12.891745
+Process Name : chrome.exe
+PID : 14396
+CPU % : 0.0
+Memory RSS : 11853824
+Threads : 11
+Open Files : 7
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:12.949420
+Process Name : GoogleDriveFS.exe
+PID : 14644
+CPU % : 0.0
+Memory RSS : 212992
+Threads : 2
+Open Files : 2
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.004822
+Process Name : crashpad_handler.exe
+PID : 14680
+CPU % : 0.0
+Memory RSS : 548864
+Threads : 6
+Open Files : 0
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.013215
+Process Name : svchost.exe
+PID : 14692
+CPU % : 0.0
+Memory RSS : 10817536
+Threads : 2
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.074830
+Process Name : dllhost.exe
+PID : 14948
+CPU % : 0.0
+Memory RSS : 5652480
+Threads : 4
+Open Files : 0
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.150053
+Process Name : Code.exe
+PID : 15348
+CPU % : 0.0
+Memory RSS : 87175168
+Threads : 25
+Open Files : 7
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.240035
+Process Name : Code.exe
+PID : 15576
+CPU % : 0.0
+Memory RSS : 459677696
+Threads : 28
+Open Files : 30
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.345145
+Process Name : Code.exe
+PID : 15624
+CPU % : 0.0
+Memory RSS : 136835072
+Threads : 18
+Open Files : 6
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.452073
+Process Name : msedgewebview2.exe
+PID : 15668
+CPU % : 0.0
+Memory RSS : 5050368
+Threads : 21
+Open Files : 5
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.539304
+Process Name : AnyDesk.exe
+PID : 15680
+CPU % : 0.0
+Memory RSS : 5664768
+Threads : 9
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.548363
+Process Name : SearchIndexer.exe
+PID : 15844
+CPU % : 0.0
+Memory RSS : 53567488
+Threads : 9
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.556373
+Process Name : OfficeC2RClient.exe
+PID : 16136
+CPU % : 0.0
+Memory RSS : 8941568
+Threads : 8
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.654384
+Process Name : msedgewebview2.exe
+PID : 16164
+CPU % : 0.0
+Memory RSS : 21151744
+Threads : 21
+Open Files : 6
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.663650
+Process Name : svchost.exe
+PID : 16392
+CPU % : 0.0
+Memory RSS : 1519616
+Threads : 3
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.736169
+Process Name : chrome.exe
+PID : 16492
+CPU % : 0.0
+Memory RSS : 19099648
+Threads : 15
+Open Files : 9
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.744681
+Process Name : svchost.exe
+PID : 16732
+CPU % : 0.0
+Memory RSS : 3473408
+Threads : 4
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.809725
+Process Name : Code.exe
+PID : 16832
+CPU % : 0.0
+Memory RSS : 79441920
+Threads : 10
+Open Files : 8
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:13.896010
+Process Name : XboxPcAppFT.exe
+PID : 16924
+CPU % : 0.0
+Memory RSS : 2134016
+Threads : 5
+Open Files : 8
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.008440
+Process Name : msedgewebview2.exe
+PID : 16936
+CPU % : 0.0
+Memory RSS : 774144
+Threads : 22
+Open Files : 19
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.066674
+Process Name : conhost.exe
+PID : 17076
+CPU % : 0.0
+Memory RSS : 6475776
+Threads : 2
+Open Files : 1
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.075090
+Process Name : svchost.exe
+PID : 17092
+CPU % : 0.0
+Memory RSS : 700416
+Threads : 1
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.084184
+Process Name : svchost.exe
+PID : 17296
+CPU % : 0.0
+Memory RSS : 1490944
+Threads : 6
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.140270
+Process Name : pet.exe
+PID : 17360
+CPU % : 0.0
+Memory RSS : 7471104
+Threads : 1
+Open Files : 15
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.148590
+Process Name : svchost.exe
+PID : 17376
+CPU % : 0.0
+Memory RSS : 3739648
+Threads : 8
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.245163
+Process Name : RuntimeBroker.exe
+PID : 17600
+CPU % : 0.0
+Memory RSS : 14315520
+Threads : 33
+Open Files : 6
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.254897
+Process Name : WmiPrvSE.exe
+PID : 17656
+CPU % : 0.0
+Memory RSS : 16355328
+Threads : 6
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.332756
+Process Name : Code.exe
+PID : 17728
+CPU % : 0.0
+Memory RSS : 87875584
+Threads : 28
+Open Files : 8
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.341056
+Process Name : svchost.exe
+PID : 17784
+CPU % : 0.0
+Memory RSS : 1409024
+Threads : 6
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.348437
+Process Name : svchost.exe
+PID : 17832
+CPU % : 0.0
+Memory RSS : 1290240
+Threads : 6
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.355996
+Process Name : svchost.exe
+PID : 18372
+CPU % : 0.0
+Memory RSS : 9629696
+Threads : 6
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.437219
+Process Name : msedgewebview2.exe
+PID : 18400
+CPU % : 0.0
+Memory RSS : 27455488
+Threads : 20
+Open Files : 20
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.501574
+Process Name : conhost.exe
+PID : 18784
+CPU % : 0.0
+Memory RSS : 3710976
+Threads : 4
+Open Files : 4
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.568444
+Process Name : chrome.exe
+PID : 19016
+CPU % : 0.0
+Memory RSS : 9809920
+Threads : 12
+Open Files : 23
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.658362
+Process Name : LockApp.exe
+PID : 19044
+CPU % : 0.0
+Memory RSS : 2691072
+Threads : 16
+Open Files : 7
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.877267
+Process Name : AdobeCollabSync.exe
+PID : 19076
+CPU % : 0.0
+Memory RSS : 12431360
+Threads : 34
+Open Files : 12
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.880130
+Process Name : audiodg.exe
+PID : 19128
+CPU % : 0.0
+Memory RSS : 21606400
+Threads : 5
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:14.947627
+Process Name : msedge.exe
+PID : 19200
+CPU % : 0.0
+Memory RSS : 3653632
+Threads : 10
+Open Files : 13
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:15.030534
+Process Name : chrome.exe
+PID : 19536
+CPU % : 0.0
+Memory RSS : 45170688
+Threads : 21
+Open Files : 22
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:15.108370
+Process Name : msedgewebview2.exe
+PID : 19628
+CPU % : 0.0
+Memory RSS : 3829760
+Threads : 20
+Open Files : 20
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:15.117093
+Process Name : OfficeClickToRun.exe
+PID : 19652
+CPU % : 0.0
+Memory RSS : 23490560
+Threads : 20
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:15.125414
+Process Name : svchost.exe
+PID : 19804
+CPU % : 0.0
+Memory RSS : 13332480
+Threads : 19
+Open Files : Access Denied
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:15.187486
+Process Name : AppVShNotify.exe
+PID : 19872
+CPU % : 0.0
+Memory RSS : 1859584
+Threads : 1
+Open Files : 0
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:15.265199
+Process Name : msedgewebview2.exe
+PID : 20024
+CPU % : 0.0
+Memory RSS : 2338816
+Threads : 9
+Open Files : 12
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:15.351199
+Process Name : Code.exe
+PID : 20088
+CPU % : 0.0
+Memory RSS : 107159552
+Threads : 31
+Open Files : 9
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:15.429980
+Process Name : Code.exe
+PID : 20140
+CPU % : 0.0
+Memory RSS : 625250304
+Threads : 19
+Open Files : 24
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:15.490445
+Process Name : python.exe
+PID : 20204
+CPU % : 0.0
+Memory RSS : 24883200
+Threads : 4
+Open Files : 1
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:15.552318
+Process Name : conhost.exe
+PID : 20404
+CPU % : 0.0
+Memory RSS : 8527872
+Threads : 7
+Open Files : 1
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:15.758799
+Process Name : msedgewebview2.exe
+PID : 20408
+CPU % : 0.0
+Memory RSS : 26378240
+Threads : 51
+Open Files : 109
+----------------------------------------
+
+
+Timestamp : 2026-02-14 08:29:15.833930
+Process Name : msedge.exe
+PID : 20456
+CPU % : 0.0
+Memory RSS : 729088
+Threads : 7
+Open Files : 1
+----------------------------------------
+
